@@ -2,7 +2,7 @@
 
 Job portal with REST services exposed.
 
-## Installation
+## Installation procedures
 
 ### Requirements
 * Java 1.8
